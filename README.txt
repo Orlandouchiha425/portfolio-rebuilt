@@ -1,1 +1,1 @@
-[Live Link to Portfolio](https://orlandouchiha425.github.io/portfolio-rebuilt/#about)
+[Live Link to Portfolio](https://orlandouchiha425.github.io/portfolio-rebuilt)
